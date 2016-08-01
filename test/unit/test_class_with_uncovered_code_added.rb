@@ -1,5 +1,3 @@
-require_relative File.expand_path __FILE__, '../test_helper.rb' 
-
 require 'minitest'
 require 'minitest/autorun'
 
